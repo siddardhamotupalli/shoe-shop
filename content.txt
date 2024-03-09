@@ -1,0 +1,15 @@
+<h2>Light Weight Highly Reliable Canvas Choes</h2>
+    <img src=" " height="250" width="250" />
+    
+    <p><b>Rs 00.00/-</b></p>
+    <p>Free shipping</p>
+    <p>Ready to dress up or down, these classic canvas shoes is an everyday wardrobe staple.</p>
+  
+    <a href=" ">More information</a>
+    
+    <h3>Product details</h3>
+    <ul>
+      <li>Lightweight, durable canvas sneaker</li>
+      <li>Lightly padded footbed for added comfort</li>
+      <li>Iconic Chuck Taylor ankle patch</li>
+    </ul>
